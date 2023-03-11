@@ -1,0 +1,15 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --background-color: rgb(46, 46, 46);
+}
+
+.app {
+  background-color: var(--background-color);
+  width: 100vw;
+  height: 100vh;
+}
